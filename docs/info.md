@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-It works because electrons.
+An AND gate makes the LED turn on only if both inputs A and B are on.
 
 ## How to test
 
@@ -17,4 +17,4 @@ Use inputs and see the effect on the output.
 
 ## External hardware
 
-No external hardware.
+Switches and LEDs.
